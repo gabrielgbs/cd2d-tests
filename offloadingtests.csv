@@ -1,0 +1,527 @@
+app;method;arg;argsize;time-ms;avg-power-mw;where
+cameraoffloading;snow;1.6;629208;1051;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1020;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1013;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;992;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;992;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;993;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1013;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1004;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;998;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1001;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1007;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1000;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1001;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;993;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1016;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1001;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1001;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;993;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;999;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;999;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1007;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;994;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1004;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;994;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;999;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;995;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1015;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;998;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1017;937.14;LOCAL
+cameraoffloading;snow;1.6;629208;1001;937.14;LOCAL
+cameraoffloading;emboss;1.6;629210;70948;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70497;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70852;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70741;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70630;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;71279;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70690;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70773;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70546;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70876;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;71037;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70960;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70644;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70705;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70975;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70782;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70804;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70971;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70650;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;71169;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;71862;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;71972;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;71496;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70354;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70392;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70552;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70366;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70977;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70370;1135.17;LOCAL
+cameraoffloading;emboss;1.6;629210;70458;1135.17;LOCAL
+matrixoperation;add;800;5128370;25536;1109.15;LG
+matrixoperation;add;800;5128370;25962;1109.15;LG
+matrixoperation;add;800;5128370;25613;1109.15;LG
+matrixoperation;add;800;5128370;25136;1109.15;LG
+matrixoperation;add;800;5128370;25537;1109.15;LG
+matrixoperation;add;800;5128370;25196;1109.15;LG
+matrixoperation;add;800;5128370;25064;1109.15;LG
+matrixoperation;add;800;5128370;25845;1109.15;LG
+matrixoperation;add;800;5128370;25209;1109.15;LG
+matrixoperation;add;800;5128370;25700;1109.15;LG
+matrixoperation;add;800;5128370;25509;1109.15;LG
+matrixoperation;add;800;5128370;25574;1109.15;LG
+matrixoperation;add;800;5128370;25427;1109.15;LG
+matrixoperation;add;800;5128370;25792;1109.15;LG
+matrixoperation;add;800;5128370;25388;1109.15;LG
+matrixoperation;add;800;5128370;25008;1109.15;LG
+matrixoperation;add;800;5128370;25083;1109.15;LG
+matrixoperation;add;800;5128370;24969;1109.15;LG
+matrixoperation;add;800;5128370;25565;1109.15;LG
+matrixoperation;add;800;5128370;25525;1109.15;LG
+matrixoperation;add;800;5128370;25329;1109.15;LG
+matrixoperation;add;800;5128370;25224;1109.15;LG
+matrixoperation;add;800;5128370;25214;1109.15;LG
+matrixoperation;add;800;5128370;25105;1109.15;LG
+matrixoperation;add;800;5128370;25387;1109.15;LG
+matrixoperation;add;800;5128370;25239;1109.15;LG
+matrixoperation;add;800;5128370;25538;1109.15;LG
+matrixoperation;add;800;5128370;24887;1109.15;LG
+matrixoperation;add;800;5128370;25131;1109.15;LG
+matrixoperation;add;800;5128370;25097;1109.15;LG
+matrixoperation;multiply;800;5128375;166040;612.61;LG
+matrixoperation;multiply;800;5128375;164708;612.61;LG
+matrixoperation;multiply;800;5128375;165895;612.61;LG
+matrixoperation;multiply;800;5128375;165034;612.61;LG
+matrixoperation;multiply;800;5128375;164387;612.61;LG
+matrixoperation;multiply;800;5128375;164881;612.61;LG
+matrixoperation;multiply;800;5128375;165126;612.61;LG
+matrixoperation;multiply;800;5128375;165420;612.61;LG
+matrixoperation;multiply;800;5128375;164595;612.61;LG
+matrixoperation;multiply;800;5128375;165923;612.61;LG
+matrixoperation;multiply;800;5128375;166506;612.61;LG
+matrixoperation;multiply;800;5128375;165146;612.61;LG
+matrixoperation;multiply;800;5128375;166381;612.61;LG
+matrixoperation;multiply;800;5128375;166200;612.61;LG
+matrixoperation;multiply;800;5128375;166375;612.61;LG
+matrixoperation;multiply;800;5128375;165177;612.61;LG
+matrixoperation;add;200;322357;7;978.87;LOCAL
+matrixoperation;add;200;322357;10;978.87;LOCAL
+matrixoperation;add;200;322370;9;978.87;LOCAL
+matrixoperation;add;200;322357;7;978.87;LOCAL
+matrixoperation;add;200;322357;7;978.87;LOCAL
+matrixoperation;add;200;322357;7;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;7;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;10;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;10;978.87;LOCAL
+matrixoperation;add;200;322357;7;978.87;LOCAL
+matrixoperation;add;200;322357;10;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;add;200;322357;8;978.87;LOCAL
+matrixoperation;add;200;322357;9;978.87;LOCAL
+matrixoperation;multiply;200;322362;2223;910.78;LOCAL
+matrixoperation;multiply;200;322362;2018;910.78;LOCAL
+matrixoperation;multiply;200;322362;2005;910.78;LOCAL
+matrixoperation;multiply;200;322362;1905;910.78;LOCAL
+matrixoperation;multiply;200;322362;2061;910.78;LOCAL
+matrixoperation;multiply;200;322362;1926;910.78;LOCAL
+matrixoperation;multiply;200;322362;1999;910.78;LOCAL
+matrixoperation;multiply;200;322362;2061;910.78;LOCAL
+matrixoperation;multiply;200;322362;1904;910.78;LOCAL
+matrixoperation;multiply;200;322362;1979;910.78;LOCAL
+matrixoperation;multiply;200;322362;1955;910.78;LOCAL
+matrixoperation;multiply;200;322362;2030;910.78;LOCAL
+matrixoperation;multiply;200;322362;1953;910.78;LOCAL
+matrixoperation;multiply;200;322362;2033;910.78;LOCAL
+matrixoperation;multiply;200;322362;1947;910.78;LOCAL
+matrixoperation;multiply;200;322362;1929;910.78;LOCAL
+matrixoperation;multiply;200;322362;1933;910.78;LOCAL
+matrixoperation;multiply;200;322362;1974;910.78;LOCAL
+matrixoperation;multiply;200;322362;2031;910.78;LOCAL
+matrixoperation;multiply;200;322362;2051;910.78;LOCAL
+matrixoperation;multiply;200;322362;1991;910.78;LOCAL
+matrixoperation;multiply;200;322362;1941;910.78;LOCAL
+matrixoperation;multiply;200;322362;2007;910.78;LOCAL
+matrixoperation;multiply;200;322362;1982;910.78;LOCAL
+matrixoperation;multiply;200;322362;1952;910.78;LOCAL
+matrixoperation;multiply;200;322362;1956;910.78;LOCAL
+matrixoperation;multiply;200;322362;1932;910.78;LOCAL
+matrixoperation;multiply;200;322362;1937;910.78;LOCAL
+matrixoperation;multiply;200;322362;2004;910.78;LOCAL
+matrixoperation;multiply;200;322362;2008;910.78;LOCAL
+matrixoperation;add;800;5128357;112;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;101;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;102;834.97;LOCAL
+matrixoperation;add;800;5128370;105;834.97;LOCAL
+matrixoperation;add;800;5128357;113;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;101;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;100;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;111;834.97;LOCAL
+matrixoperation;add;800;5128370;105;834.97;LOCAL
+matrixoperation;add;800;5128357;101;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;108;834.97;LOCAL
+matrixoperation;add;800;5128370;99;834.97;LOCAL
+matrixoperation;add;800;5128357;119;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128357;101;834.97;LOCAL
+matrixoperation;add;800;5128370;105;834.97;LOCAL
+matrixoperation;add;800;5128357;100;834.97;LOCAL
+matrixoperation;add;800;5128370;107;834.97;LOCAL
+matrixoperation;add;800;5128357;112;834.97;LOCAL
+matrixoperation;add;800;5128370;99;834.97;LOCAL
+matrixoperation;add;800;5128370;111;834.97;LOCAL
+matrixoperation;add;800;5128370;106;834.97;LOCAL
+matrixoperation;add;800;5128370;113;834.97;LOCAL
+matrixoperation;add;800;5128370;105;834.97;LOCAL
+matrixoperation;multiply;800;5128375;232974;1101.38;LOCAL
+matrixoperation;multiply;800;5128375;209250;1101.38;LOCAL
+matrixoperation;multiply;800;5128375;227393;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;218252;1101.38;LOCAL
+matrixoperation;multiply;800;5128375;212582;1101.38;LOCAL
+matrixoperation;multiply;800;5128375;217835;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;212213;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;229327;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;217699;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;222165;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;221451;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;224383;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;221534;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;214326;1101.38;LOCAL
+matrixoperation;multiply;800;5128362;221580;1101.38;LOCAL
+cameraoffloading;snow;1.6;629208;7154;767.49;LG
+cameraoffloading;snow;1.6;629208;2213;767.49;LG
+cameraoffloading;snow;1.6;629208;2168;767.49;LG
+cameraoffloading;snow;1.6;629208;2188;767.49;LG
+cameraoffloading;snow;1.6;629208;2206;767.49;LG
+cameraoffloading;snow;1.6;629208;2113;767.49;LG
+cameraoffloading;snow;1.6;629208;2222;767.49;LG
+cameraoffloading;snow;1.6;629208;2320;767.49;LG
+cameraoffloading;snow;1.6;629208;2035;767.49;LG
+cameraoffloading;snow;1.6;629208;2103;767.49;LG
+cameraoffloading;snow;1.6;629208;2232;767.49;LG
+cameraoffloading;snow;1.6;629208;2051;767.49;LG
+cameraoffloading;snow;1.6;629208;2249;767.49;LG
+cameraoffloading;snow;1.6;629208;2198;767.49;LG
+cameraoffloading;snow;1.6;629208;1906;767.49;LG
+cameraoffloading;snow;1.6;629208;2199;767.49;LG
+cameraoffloading;snow;1.6;629208;2337;767.49;LG
+cameraoffloading;snow;1.6;629208;2887;767.49;LG
+cameraoffloading;snow;1.6;629208;2133;767.49;LG
+cameraoffloading;snow;1.6;629208;2148;767.49;LG
+cameraoffloading;snow;1.6;629208;2164;767.49;LG
+cameraoffloading;snow;1.6;629208;2275;767.49;LG
+cameraoffloading;snow;1.6;629208;2273;767.49;LG
+cameraoffloading;snow;1.6;629208;2356;767.49;LG
+cameraoffloading;snow;1.6;629208;2115;767.49;LG
+cameraoffloading;snow;1.6;629208;2276;767.49;LG
+cameraoffloading;snow;1.6;629208;2104;767.49;LG
+cameraoffloading;snow;1.6;629208;2088;767.49;LG
+cameraoffloading;snow;1.6;629208;2185;767.49;LG
+cameraoffloading;snow;1.6;629208;2329;767.49;LG
+cameraoffloading;emboss;1.6;629210;15677;594.34;LG
+cameraoffloading;emboss;1.6;629210;15532;594.34;LG
+cameraoffloading;emboss;1.6;629210;15667;594.34;LG
+cameraoffloading;emboss;1.6;629210;15603;594.34;LG
+cameraoffloading;emboss;1.6;629210;15415;594.34;LG
+cameraoffloading;emboss;1.6;629210;15481;594.34;LG
+cameraoffloading;emboss;1.6;629210;15753;594.34;LG
+cameraoffloading;emboss;1.6;629210;15417;594.34;LG
+cameraoffloading;emboss;1.6;629210;15454;594.34;LG
+cameraoffloading;emboss;1.6;629210;15465;594.34;LG
+cameraoffloading;emboss;1.6;629210;15353;594.34;LG
+cameraoffloading;emboss;1.6;629210;15655;594.34;LG
+cameraoffloading;emboss;1.6;629210;15605;594.34;LG
+cameraoffloading;emboss;1.6;629210;15578;594.34;LG
+cameraoffloading;emboss;1.6;629210;15484;594.34;LG
+cameraoffloading;emboss;1.6;629210;15447;594.34;LG
+cameraoffloading;emboss;1.6;629210;15576;594.34;LG
+cameraoffloading;emboss;1.6;629210;15534;594.34;LG
+cameraoffloading;emboss;1.6;629210;15546;594.34;LG
+cameraoffloading;emboss;1.6;629210;15499;594.34;LG
+cameraoffloading;emboss;1.6;629210;15579;594.34;LG
+cameraoffloading;emboss;1.6;629210;15399;594.34;LG
+cameraoffloading;emboss;1.6;629210;15389;594.34;LG
+cameraoffloading;emboss;1.6;629210;15590;594.34;LG
+cameraoffloading;emboss;1.6;629210;15697;594.34;LG
+cameraoffloading;emboss;1.6;629210;15463;594.34;LG
+cameraoffloading;emboss;1.6;629210;15421;594.34;LG
+cameraoffloading;emboss;1.6;629210;15757;594.34;LG
+cameraoffloading;emboss;1.6;629210;15723;594.34;LG
+cameraoffloading;emboss;1.6;629210;15495;594.34;LG
+matrixoperation;add;200;322357;6514;1006.41;LG
+matrixoperation;add;200;322357;1697;1006.41;LG
+matrixoperation;add;200;322357;1787;1006.41;LG
+matrixoperation;add;200;322357;1778;1006.41;LG
+matrixoperation;add;200;322357;1728;1006.41;LG
+matrixoperation;add;200;322357;1770;1006.41;LG
+matrixoperation;add;200;322357;1763;1006.41;LG
+matrixoperation;add;200;322357;1672;1006.41;LG
+matrixoperation;add;200;322357;1834;1006.41;LG
+matrixoperation;add;200;322357;1732;1006.41;LG
+matrixoperation;add;200;322357;1729;1006.41;LG
+matrixoperation;add;200;322370;1759;1006.41;LG
+matrixoperation;add;200;322357;1754;1006.41;LG
+matrixoperation;add;200;322357;1674;1006.41;LG
+matrixoperation;add;200;322357;1691;1006.41;LG
+matrixoperation;add;200;322357;1760;1006.41;LG
+matrixoperation;add;200;322370;1751;1006.41;LG
+matrixoperation;add;200;322357;1750;1006.41;LG
+matrixoperation;add;200;322357;1937;1006.41;LG
+matrixoperation;add;200;322357;1812;1006.41;LG
+matrixoperation;add;200;322357;1608;1006.41;LG
+matrixoperation;add;200;322357;1755;1006.41;LG
+matrixoperation;add;200;322357;1711;1006.41;LG
+matrixoperation;add;200;322357;1829;1006.41;LG
+matrixoperation;add;200;322357;1717;1006.41;LG
+matrixoperation;add;200;322357;1728;1006.41;LG
+matrixoperation;add;200;322357;1765;1006.41;LG
+matrixoperation;add;200;322370;1741;1006.41;LG
+matrixoperation;add;200;322357;1710;1006.41;LG
+matrixoperation;add;200;322357;1767;1006.41;LG
+matrixoperation;multiply;200;322362;2285;858.32;LG
+matrixoperation;multiply;200;322362;2372;858.32;LG
+matrixoperation;multiply;200;322375;2250;858.32;LG
+matrixoperation;multiply;200;322362;2289;858.32;LG
+matrixoperation;multiply;200;322362;2289;858.32;LG
+matrixoperation;multiply;200;322362;2257;858.32;LG
+matrixoperation;multiply;200;322362;2214;858.32;LG
+matrixoperation;multiply;200;322362;2319;858.32;LG
+matrixoperation;multiply;200;322362;2290;858.32;LG
+matrixoperation;multiply;200;322362;2239;858.32;LG
+matrixoperation;multiply;200;322362;2261;858.32;LG
+matrixoperation;multiply;200;322362;2245;858.32;LG
+matrixoperation;multiply;200;322362;2313;858.32;LG
+matrixoperation;multiply;200;322362;2262;858.32;LG
+matrixoperation;multiply;200;322375;2398;858.32;LG
+matrixoperation;multiply;200;322362;2350;858.32;LG
+matrixoperation;multiply;200;322362;2265;858.32;LG
+matrixoperation;multiply;200;322362;2292;858.32;LG
+matrixoperation;multiply;200;322362;2261;858.32;LG
+matrixoperation;multiply;200;322362;2251;858.32;LG
+matrixoperation;multiply;200;322362;2263;858.32;LG
+matrixoperation;multiply;200;322362;2263;858.32;LG
+matrixoperation;multiply;200;322362;2313;858.32;LG
+matrixoperation;multiply;200;322362;2376;858.32;LG
+matrixoperation;multiply;200;322362;2221;858.32;LG
+matrixoperation;multiply;200;322362;2268;858.32;LG
+matrixoperation;multiply;200;322362;2213;858.32;LG
+matrixoperation;multiply;200;322362;2373;858.32;LG
+matrixoperation;multiply;200;322362;2288;858.32;LG
+matrixoperation;multiply;200;322362;2206;858.32;LG
+matrixoperation;add;800;5128370;24922;1109.15;LG
+matrixoperation;add;800;5128370;23846;1109.15;LG
+matrixoperation;add;800;5128370;24795;1109.15;LG
+matrixoperation;add;800;5128370;25160;1109.15;LG
+matrixoperation;add;800;5128370;24285;1109.15;LG
+matrixoperation;add;800;5128370;24373;1109.15;LG
+matrixoperation;add;800;5128370;24564;1109.15;LG
+matrixoperation;add;800;5128370;24450;1109.15;LG
+matrixoperation;add;800;5128370;23808;1109.15;LG
+matrixoperation;add;800;5128370;24624;1109.15;LG
+matrixoperation;add;800;5128370;24694;1109.15;LG
+matrixoperation;add;800;5128370;24297;1109.15;LG
+matrixoperation;add;800;5128370;24855;1109.15;LG
+matrixoperation;add;800;5128370;24367;1109.15;LG
+matrixoperation;add;800;5128370;25081;1109.15;LG
+matrixoperation;add;800;5128370;23848;1109.15;LG
+matrixoperation;add;800;5128370;24556;1109.15;LG
+matrixoperation;add;800;5128370;23545;1109.15;LG
+matrixoperation;add;800;5128357;24751;1109.15;LG
+matrixoperation;add;800;5128370;23975;1109.15;LG
+matrixoperation;add;800;5128370;24015;1109.15;LG
+matrixoperation;add;800;5128370;24106;1109.15;LG
+matrixoperation;add;800;5128370;24065;1109.15;LG
+matrixoperation;add;800;5128370;24189;1109.15;LG
+matrixoperation;add;800;5128370;23817;1109.15;LG
+matrixoperation;add;800;5128370;24100;1109.15;LG
+matrixoperation;add;800;5128370;24451;1109.15;LG
+matrixoperation;add;800;5128370;24025;1109.15;LG
+matrixoperation;add;800;5128370;24663;1109.15;LG
+matrixoperation;add;800;5128370;24419;1109.15;LG
+matrixoperation;add;200;322357;1573;978.87;TV Box
+matrixoperation;add;200;322357;1179;978.87;TV Box
+matrixoperation;add;200;322357;1109;978.87;TV Box
+matrixoperation;add;200;322357;1121;978.87;TV Box
+matrixoperation;add;200;322357;1173;978.87;TV Box
+matrixoperation;add;200;322357;1154;978.87;TV Box
+matrixoperation;add;200;322357;1141;978.87;TV Box
+matrixoperation;add;200;322357;1118;978.87;TV Box
+matrixoperation;add;200;322357;1159;978.87;TV Box
+matrixoperation;add;200;322357;1107;978.87;TV Box
+matrixoperation;add;200;322357;1135;978.87;TV Box
+matrixoperation;add;200;322357;1177;978.87;TV Box
+matrixoperation;add;200;322357;1112;978.87;TV Box
+matrixoperation;add;200;322357;1104;978.87;TV Box
+matrixoperation;add;200;322357;1126;978.87;TV Box
+matrixoperation;add;200;322357;1106;978.87;TV Box
+matrixoperation;add;200;322357;1138;978.87;TV Box
+matrixoperation;add;200;322357;1147;978.87;TV Box
+matrixoperation;add;200;322357;1077;978.87;TV Box
+matrixoperation;add;200;322357;1125;978.87;TV Box
+matrixoperation;add;200;322357;1087;978.87;TV Box
+matrixoperation;add;200;322370;1095;978.87;TV Box
+matrixoperation;add;200;322357;1090;978.87;TV Box
+matrixoperation;add;200;322357;1117;978.87;TV Box
+matrixoperation;add;200;322357;1082;978.87;TV Box
+matrixoperation;add;200;322357;1117;978.87;TV Box
+matrixoperation;add;200;322357;1122;978.87;TV Box
+matrixoperation;add;200;322357;1102;978.87;TV Box
+matrixoperation;add;200;322357;1153;978.87;TV Box
+matrixoperation;add;200;322357;1555;978.87;TV Box
+matrixoperation;multiply;200;322362;4532;751.49;TV Box
+matrixoperation;multiply;200;322362;4390;751.49;TV Box
+matrixoperation;multiply;200;322375;4316;751.49;TV Box
+matrixoperation;multiply;200;322362;4270;751.49;TV Box
+matrixoperation;multiply;200;322362;4286;751.49;TV Box
+matrixoperation;multiply;200;322362;4292;751.49;TV Box
+matrixoperation;multiply;200;322362;4289;751.49;TV Box
+matrixoperation;multiply;200;322362;4189;751.49;TV Box
+matrixoperation;multiply;200;322362;4274;751.49;TV Box
+matrixoperation;multiply;200;322362;4396;751.49;TV Box
+matrixoperation;multiply;200;322362;4394;751.49;TV Box
+matrixoperation;multiply;200;322362;4384;751.49;TV Box
+matrixoperation;multiply;200;322362;4392;751.49;TV Box
+matrixoperation;multiply;200;322362;4297;751.49;TV Box
+matrixoperation;multiply;200;322362;4285;751.49;TV Box
+matrixoperation;multiply;200;322362;4300;751.49;TV Box
+matrixoperation;multiply;200;322362;4387;751.49;TV Box
+matrixoperation;multiply;200;322362;4257;751.49;TV Box
+matrixoperation;multiply;200;322362;4324;751.49;TV Box
+matrixoperation;multiply;200;322362;4312;751.49;TV Box
+matrixoperation;multiply;200;322362;4352;751.49;TV Box
+matrixoperation;multiply;200;322362;4398;751.49;TV Box
+matrixoperation;multiply;200;322362;4304;751.49;TV Box
+matrixoperation;multiply;200;322362;4294;751.49;TV Box
+matrixoperation;multiply;200;322362;4398;751.49;TV Box
+matrixoperation;multiply;200;322362;4288;751.49;TV Box
+matrixoperation;multiply;200;322362;4396;751.49;TV Box
+matrixoperation;multiply;200;322362;4475;751.49;TV Box
+matrixoperation;multiply;200;322362;4301;751.49;TV Box
+matrixoperation;multiply;200;322362;4298;751.49;TV Box
+cameraoffloading;snow;1.6;629208;4154;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2049;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1981;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1919;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2035;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1933;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2061;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1980;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1905;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2331;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2099;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2079;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2051;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2002;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1968;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2280;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2239;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2033;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2005;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2035;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2056;781.22;TV Box
+cameraoffloading;snow;1.6;629208;1986;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2281;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2059;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2077;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2077;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2174;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2014;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2073;781.22;TV Box
+cameraoffloading;snow;1.6;629208;2037;781.22;TV Box
+cameraoffloading;emboss;1.6;629210;59542;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59695;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;61741;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59380;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59682;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59535;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60146;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59554;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59695;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59552;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60159;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60054;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59977;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59779;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60617;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59657;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59718;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59967;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60195;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59542;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59893;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59752;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60088;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59806;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59691;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59526;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60481;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;60025;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59626;569.50;TV Box
+cameraoffloading;emboss;1.6;629210;59488;569.50;TV Box
+matrixoperation;add;800;5128370;16045;1364.62;TV Box
+matrixoperation;add;800;5128370;15719;1364.62;TV Box
+matrixoperation;add;800;5128370;15955;1364.62;TV Box
+matrixoperation;add;800;5128370;15901;1364.62;TV Box
+matrixoperation;add;800;5128370;16089;1364.62;TV Box
+matrixoperation;add;800;5128370;15961;1364.62;TV Box
+matrixoperation;add;800;5128370;15983;1364.62;TV Box
+matrixoperation;add;800;5128370;16300;1364.62;TV Box
+matrixoperation;add;800;5128370;16302;1364.62;TV Box
+matrixoperation;add;800;5128370;16154;1364.62;TV Box
+matrixoperation;add;800;5128370;16051;1364.62;TV Box
+matrixoperation;add;800;5128370;16172;1364.62;TV Box
+matrixoperation;add;800;5128370;16057;1364.62;TV Box
+matrixoperation;add;800;5128370;15763;1364.62;TV Box
+matrixoperation;add;800;5128370;15841;1364.62;TV Box
+matrixoperation;add;800;5128370;16087;1364.62;TV Box
+matrixoperation;add;800;5128370;15768;1364.62;TV Box
+matrixoperation;add;800;5128370;15913;1364.62;TV Box
+matrixoperation;add;800;5128370;15958;1364.62;TV Box
+matrixoperation;add;800;5128370;15916;1364.62;TV Box
+matrixoperation;add;800;5128370;15787;1364.62;TV Box
+matrixoperation;add;800;5128370;15855;1364.62;TV Box
+matrixoperation;add;800;5128370;15699;1364.62;TV Box
+matrixoperation;add;800;5128370;15834;1364.62;TV Box
+matrixoperation;add;800;5128370;16083;1364.62;TV Box
+matrixoperation;add;800;5128357;15831;1364.62;TV Box
+matrixoperation;add;800;5128370;15806;1364.62;TV Box
+matrixoperation;add;800;5128370;15786;1364.62;TV Box
+matrixoperation;add;800;5128370;15817;1364.62;TV Box
+matrixoperation;add;800;5128370;15701;1364.62;TV Box
+matrixoperation;multiply;800;5128375;274929;590.16;TV Box
+matrixoperation;multiply;800;5128375;275146;590.16;TV Box
+matrixoperation;multiply;800;5128375;275980;590.16;TV Box
+matrixoperation;multiply;800;5128375;275593;590.16;TV Box
+matrixoperation;multiply;800;5128375;275326;590.16;TV Box
+matrixoperation;multiply;800;5128375;274975;590.16;TV Box
+matrixoperation;multiply;800;5128375;275084;590.16;TV Box
+matrixoperation;multiply;800;5128375;275235;590.16;TV Box
+matrixoperation;multiply;800;5128375;275993;590.16;TV Box
+matrixoperation;multiply;800;5128375;274784;590.16;TV Box
+matrixoperation;multiply;800;5128375;275770;590.16;TV Box
+matrixoperation;multiply;800;5128375;274940;590.16;TV Box
+matrixoperation;multiply;800;5128375;275874;590.16;TV Box
+matrixoperation;multiply;800;5128375;275283;590.16;TV Box
+matrixoperation;multiply;800;5128375;276399;590.16;TV Box
